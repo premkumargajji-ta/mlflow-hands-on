@@ -1,0 +1,15 @@
+artifact_uri: /home/premkumargajji/pydataberlin-2019/mlruns/891091769369979184/b127a77d7e934177acec0e540d1e0403/artifacts
+end_time: 1732608305326
+entry_point_name: ''
+experiment_id: '891091769369979184'
+lifecycle_stage: active
+run_id: b127a77d7e934177acec0e540d1e0403
+run_name: resilient-grub-229
+run_uuid: b127a77d7e934177acec0e540d1e0403
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732608303581
+status: 3
+tags: []
+user_id: premkumargajji
